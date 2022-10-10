@@ -1,4 +1,8 @@
-# Guidance
+# Deep learning for minimising uncertainty in multi-modal image synthesis - Timotej Kovacka
+This repository hosts all my work, notes and logs corresponding to the final year project of BSc
+
+
+<!-- # Guidance
 This is a suggested template for a project. You can modify it as you please, but
 but remember to keep:
 
@@ -24,4 +28,4 @@ Here's an overview of the structure as it stands:
 
 ## Important
 * It should be easy to rebuild and run your project and your dissertation
-        * Include clear instructions in the relevant directories to make this possible
+        * Include clear instructions in the relevant directories to make this possible -->
