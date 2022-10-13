@@ -21,7 +21,8 @@
 * *6 hours* Reading about 2013-2019 Miccai & BRATS
 * *0.5 hour* Setting up a repository
 ## Week 4
-
+* *2 hours* Reading about multi-modal image synthesis for MR Images of Brain
+* *2 hours* Reading about 
 ## Week 5
 
 ## Week 6
@@ -37,14 +38,3 @@
 ## Week 11
 
 ## Week 12
-
-<!-- ### 19 Oct 2019
-
-* *4 hours* Read the project guidance notes
-* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
-* *1 hour* Modified dissertation template, compiled  
-
-## 20 Oct 2019
-
-* *1 hour* meeting with supervisor
-* *2 hours* writing initial version of test harness -->
