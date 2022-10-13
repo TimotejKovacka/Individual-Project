@@ -22,7 +22,8 @@
 * *0.5 hour* Setting up a repository
 ## Week 4
 * *2 hours* Reading about multi-modal image synthesis for MR Images of Brain
-* *2 hours* Reading about 
+* *2 hours* Reading about
+* *0.5 hour* Designing automatic update of calculation of time spent on project 
 ## Week 5
 
 ## Week 6
