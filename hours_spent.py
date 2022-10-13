@@ -20,6 +20,6 @@ with open(TIMELOG_MARKDOWN) as f:
 
 for line in fileinput.input(README, inplace=True):
     if "Time spent on dissertation -" in line:
-        print("{} =={}== hours".format(line[:28], total_time), end="")
+        print("{} **{}** hours".format(line[:28], total_time))
     else:
         print(line, end="")
