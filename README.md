@@ -1,8 +1,9 @@
 # Deep learning for minimising uncertainty in multi-modal image synthesis - Timotej Kovacka
 This repository hosts all my work, notes and logs corresponding to the final year project of BSc
 
-
-<!-- # Guidance
+### Time managment
+A detailed log of my work on the project can be found in my [timelog](https://github.com/TimotejKovacka/Individual-Project/blob/main/timelog.md)
+Time spent on dissertation - ==12.0== hours<!-- # Guidance
 This is a suggested template for a project. You can modify it as you please, but
 but remember to keep:
 
