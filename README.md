@@ -4,7 +4,7 @@ This repository hosts all my work, notes and logs corresponding to the final yea
 ### Time managment
 A detailed log of my work on the project can be found in my [timelog](https://github.com/TimotejKovacka/Individual-Project/blob/main/timelog.md)
 
-Time spent on dissertation - **12.0** hours
+Time spent on dissertation - **12.5** hours
 
 <!-- # Guidance
 This is a suggested template for a project. You can modify it as you please, but
