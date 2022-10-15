@@ -31,6 +31,9 @@ jobs:
         
     - name: Update README with time spent
       run: python hours_spent.py
+
+    - name: Update research papers
+      run: python ./notes/lookup.py
       
     - name: commit files
       run: |
