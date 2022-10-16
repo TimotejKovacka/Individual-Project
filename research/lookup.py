@@ -27,4 +27,4 @@ for title, link in zip(titles, links):
 
 with open(RESEARCH_PAPERS, 'w') as f:
     for line in filedata:
-        print(line, file=f)
+        print(line+'\n', file=f)
