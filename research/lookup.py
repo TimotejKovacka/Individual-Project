@@ -4,7 +4,7 @@ import re
 
 RESOURCES = "./research/resources.bib"
 LINKS = "./research/resources_links.txt"
-RESEARCH_PAPERS = "./research/research_papers.md"
+RESEARCH_PAPERS = "./research/README.md"
 
 titles, links = [], []
 with open(RESOURCES) as f:
@@ -27,4 +27,4 @@ for title, link in zip(titles, links):
 
 with open(RESEARCH_PAPERS, 'w') as f:
     for line in filedata:
-        print(line, file=f)
+        print(line+'\n', file=f)
