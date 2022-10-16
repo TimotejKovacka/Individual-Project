@@ -2,9 +2,9 @@
 import fileinput
 import re
 
-RESOURCES = "./notes/resources.bib"
-LINKS = "./notes/resources_links.txt"
-RESEARCH_PAPERS = "./notes/research_papers.md"
+RESOURCES = "./research/resources.bib"
+LINKS = "./research/resources_links.txt"
+RESEARCH_PAPERS = "./research/research_papers.md"
 
 titles, links = [], []
 with open(RESOURCES) as f:
@@ -15,7 +15,7 @@ with open(RESOURCES) as f:
         titles += [match.group()[7:-1]]
 
 with open(LINKS) as f:
-    links = [line for line in f]
+    links = [line[:-1] for line in f]
 
 with open(RESEARCH_PAPERS, 'r') as f:
     filedata = f.read()
