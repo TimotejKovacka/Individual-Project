@@ -1,1 +1,4 @@
 https://ieeexplore.ieee.org/abstract/document/6975210
+https://link.springer.com/chapter/10.1007/978-3-319-66179-7_40#citeas
+https://arxiv.org/abs/1811.02629
+https://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_Semantically_Multi-Modal_Image_Synthesis_CVPR_2020_paper.html
